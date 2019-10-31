@@ -95,7 +95,7 @@ void OpenGLWidget::createModel()
     numFaces = 2;
 
     // Increase maxSize so the model becomes very small in NDC
-    float scale = 1 / 20.0f;
+    float scale = 1 / 25.0f;
 
     // Create four vertices to define a square
     if(vertices)

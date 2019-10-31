@@ -7,6 +7,6 @@ uniform vec4 translation;
 
 void main()
 {
-    float scaling = (translation.z + 1) / 2;
+    float scaling = (translation.z - 1) / 10;
     gl_Position = (vPosition + translation) * vec4(scaling, scaling, scaling, 1);
 }
