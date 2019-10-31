@@ -11,7 +11,7 @@ Desktop application developed using [Open Source Qt Framework](https://www.qt.io
 
 ## Built with
 
-- C++ 11
+- C++ 14
 - Qt 5.12.5
 - OpenGL 4.5
 - Qt Creator 4.10.1 Community
