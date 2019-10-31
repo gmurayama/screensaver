@@ -5,6 +5,8 @@ Desktop application developed using [Open Source Qt Framework](https://www.qt.io
 - [tic-tac-toe](https://github.com/gmurayama/tic-tac-toe)
 - screensaver
 
+![screensaver](screensaver.gif)
+
 ## Built with
 
 - C++ 11
